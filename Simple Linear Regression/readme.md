@@ -1,5 +1,3 @@
-[Home](../sequence.md) - Simple linear regression 
-
 # Simple Linear Regression
 
 Simple linear regression is the most basic model in machine learning
